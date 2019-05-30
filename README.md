@@ -3,6 +3,10 @@
 ## Introduction
 Cilia are microscopic hair like structure that protrude form cell bodies. This project aims to implement methods to segment cilia pixels from a cell body video (grayscale time-series data). Presently, this project implements just one method - a statistical approach to distinguish cilia pixels from the static background. The full problem definition and the dataset can be found [here](https://github.com/dsp-uga/sp19/blob/master/projects/p2/project2.pdf).
 
+<p align="center">
+ <img align="center" src="https://i.postimg.cc/gLvQyqBf/screen.png">
+</p>
+
 ## Software Requirements
 The following python libraries are required
  1. pillow
