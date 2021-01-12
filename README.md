@@ -7,7 +7,7 @@ Cilia are microscopic hair like structures protruding form cell walls of every c
 Figure 2.1 shows the input and the expected output for the task. On the LEFT is a frame from one of the videos and on the RIGHT is the corresponding ground-truth label for the video. The cilia, as mentioned in the previous section, show movement while rest of the elements (background & cell) stay very stationary in comparison. The implemented method exploits this difference by computing variance in pixel intensities over time for all pixels and applying a segmentation threshold to separate out cilia pixels.
 
 <p align="center">
- <img align="center" src="https://postimg.cc/1nNkyd1Z">
+ <img align="center" src="https://i.postimg.cc/ZRf4xkf0/cilia.png">
 </p>
 
 In the following pair of images, the LEFT one shows the results of computing pixel wise intensities as a heat map. The image on the right shows the output mask after thresholding.
