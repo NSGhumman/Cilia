@@ -9,9 +9,7 @@ Figure 2.1 shows the input and the expected output for the task. On the LEFT is 
 <p align="center">
  <img align="center" src="https://i.postimg.cc/ZRf4xkf0/cilia.png">
 </p>
-
 In the following pair of images, the LEFT one shows the results of computing pixel wise intensities as a heat map. The image on the right shows the output mask after thresholding.
-
 <p align="center">
  <img align="center" src="https://i.ibb.co/SyT5ZVH/screen.png">
 </p>
