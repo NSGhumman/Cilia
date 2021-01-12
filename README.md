@@ -17,21 +17,4 @@ In the following pair of images, the LEFT one shows the results of computing pix
 </p>
 
 
-## Software Requirements
-The implementation has the following Python dependencies:
- 1. pillow
- 2. numpy
- 3. matplotlib
-
-# How to run
-Enter the source directory
-```
-cd src
-```
-and run the FStat module as
-```
-python FStat.py
-```
-The masks will be saved to the `predictions/` directory.
-
 [Problem source](https://github.com/dsp-uga/sp19/blob/master/projects/p2/project2.pdf).
